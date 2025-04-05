@@ -1,6 +1,6 @@
 Using K-Means clustering to group cryptocurrencies based on their price change percentages over different time periods. 
 The data is first scaled, then clustered using the original features. PCA is applied to reduce the number of features while keeping most of the data’s information. 
-The clustering is then repeated with the PCA-reduced data. Both clustering methods are visualized and compared to see how dimensionality reduction affects the results.\
+The clustering is then repeated with the PCA-reduced data. Both clustering methods are visualized and compared to see how dimensionality reduction affects the results.
 Sources:
 - SciKit Learn documentation for K-Means Clustering
 - SciKit Learn documentation for PCA
